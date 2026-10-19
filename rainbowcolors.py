@@ -1,3 +1,4 @@
+#Display the colours of the rainbow
 import turtle
 
 # Set up the screen
